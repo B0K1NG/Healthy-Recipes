@@ -12,6 +12,12 @@ Welcome to the Quinoa and Kale Salad Recipe page! This HTML and CSS project show
 - **Ingredients List:** A list of key ingredients presented in an organized manner.
 - **External Reference:** Find the complete recipe and more details at the provided external link.
 
+## Tech Stack 💻
+
+- HTML
+- CSS
+- Visual Studio Code
+
 ## How to Explore 🍽️
 
 1. **Open the HTML File:**
